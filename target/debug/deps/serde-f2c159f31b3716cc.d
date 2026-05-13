@@ -1,0 +1,14 @@
+/Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/deps/serde-f2c159f31b3716cc.d: /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/build/serde-0e8e8a817c3d4882/out/private.rs
+
+/Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/deps/libserde-f2c159f31b3716cc.rlib: /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/build/serde-0e8e8a817c3d4882/out/private.rs
+
+/Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/deps/libserde-f2c159f31b3716cc.rmeta: /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/build/serde-0e8e8a817c3d4882/out/private.rs
+
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/build/serde-0e8e8a817c3d4882/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/Sabina_1/Desktop/tutorial9/subscriber/target/debug/build/serde-0e8e8a817c3d4882/out
